@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 i'm currently studying computer science with a focus in AI at the University of Toronto.
+
 here are some of my other links:
 - [![Linkedin](https://i.sstatic.net/gVE0j.png) linkedin](https://www.linkedin.com/in/rachelden/)
 - 🔗 [portfolio](https://racheldeng.com/)
